@@ -64,6 +64,16 @@ Based on the sample dataset:
 * HR and Sales showed employee attrition in the sample dataset.
 
 > Note: This is a small sample dataset created for learning and portfolio development. The findings should not be treated as representative of a real organization.
+## 📊 Visualizations
+
+### Employee Attrition
+![Employee Attrition](attrition_chart.png)
+
+### Attrition by Department
+![Attrition by Department](department_attrition.png)
+
+### Average Salary by Department
+![Average Salary by Department](salary_by_department.png)
 
 ## 🚀 Future Improvements
 
